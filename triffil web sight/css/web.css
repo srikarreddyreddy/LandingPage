@@ -1,0 +1,133 @@
+
+/* Rules for all cases */
+
+.box1, .box2 {
+    
+    padding: 1em;
+}
+
+.box1 {
+    color: red;
+}
+
+.box2 {
+    color: green;
+}
+
+/* Rules for case 1 */
+
+.case1 .box1 {
+    float: left;
+}
+
+.case1 .box2 {
+    float: right;
+}
+
+
+/* Ignore this stuff, just presents the example better */
+
+hgroup {
+    clear: both;
+}
+
+whatever {
+    background: #eee;
+    display: block;
+    overflow: hidden;
+}
+
+footer{
+	background-color:green;
+	color:white;
+	float:right;
+	
+}
+
+
+
+h1{
+	background-color:red;
+	}
+header{
+	background-color:lavender;
+}
+.sri1{
+	width:100%;
+	background-color:lavender;
+}
+
+ul {
+    
+     background-color: #333;
+	float:right;
+	width:70%;
+	margin-top:30px;
+	text-decoration:none;
+	list-style-type: none;
+}
+
+li {
+    float: left;
+	text-decoration:none;
+	list-style-type: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+	text-decoration:none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.sri2{
+	width:100%;
+	float:left;
+}
+.a{
+	width:33.33%;
+	float:left;
+}
+.a p {
+	text-align:justify;
+}
+.b{
+	width:33.33%;
+	float:left;
+}
+.c{
+	width:33.33%;
+	float:left;
+}
+.sri3{
+	width:100%;
+	float:left;
+}
+.d{
+	width:33.33%;
+	float:left;
+}
+.e{
+	width:33.33%;
+	float:left;
+}
+.f{
+	width:33.33%;
+	float:left;
+}
+
+.a p{
+	text-align:justify;
+	
+	
+}
+.kiran{
+	background-color:lavender;
+}
+.kiran1{
+	background-color:lavender;
+}
